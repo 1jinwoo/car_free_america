@@ -1,0 +1,16 @@
+Urbanized area (top 15 by # of commuters),Car drove alone,Carpool,Transit,Bike,Walk,Other,Home
+"New York--Newark, NY--NJ--CT",49,6,32,0.70,6,2,5
+"Los Angeles--Long Beach--Anaheim, CA",75,10,5,0.70,3,1,6
+"Chicago, IL--IN",68,8,13,0.70,3,2,6
+"Dallas--Fort Worth--Arlington, TX",80,10,2,0.10,1,1,6
+"Miami, FL",78,9,3,0.70,1,2,6
+"Washington, DC--VA--MD",63,9,15,1,4,2,6
+"Houston, TX",81,10,2,0.20,1,1,5
+"Philadelphia, PA--NJ--DE--MD",71,7,11,0.60,4,1,5
+"Atlanta, GA",77,9,3,0,1,2,8
+"Boston, MA--NH--RI",65,7,14,1,6,2,5
+"Phoenix--Mesa, AZ",76,11,2,0.80,1,2,7
+"San Francisco--Oakland, CA",54,9,19,2,6,3,7
+"Seattle, WA",65,10,12,1,4,1,7
+"Detroit, MI",83,9,1,0,1,1,4
+"San Diego, CA",77,9,3,1,3,1,7
